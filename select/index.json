@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エデンの揺り籃 (Instrumental)",
+  "base_artist": "未来古代楽団",
+  "createdAt": "2026-02-14T07:05:04.382365Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エデンの揺り籃 (feat. Lucia)",
+      "artist": "未来古代楽団",
+      "has_synced": false,
+      "path": "select/pl_01_エデンの揺り籃_(feat._Lucia)_未来古代楽団.txt"
+    }
+  ]
+}
